@@ -12,3 +12,5 @@ Znalazłem że zamiast <Frame> tradycyjnego można zainstalować pakiet Nuget ta
 Xamarin.Forms.PancakeView, żeby go użyć musimy również dodać na górze namespace 
 xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView", 
 ale to powinno podświetlić błąd i w szybkim rozwiązaniu problemu powinno automatycznie dodać go.
+
+Podgląd aplikacja można zauważyć na zdjęciach główna.PNG oraz podstrona.PNG
