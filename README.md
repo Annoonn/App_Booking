@@ -14,5 +14,6 @@ xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.Pa
 ale to powinno podświetlić błąd i w szybkim rozwiązaniu problemu powinno automatycznie dodać go.
 
 Podgląd aplikacja można zauważyć na zdjęciach główna.PNG oraz podstrona.PNG
+
 ![główna](https://github.com/Annoonn/App_Booking/assets/92316175/f9970781-bae5-4f3f-b9b3-2436a7166642)
 ![podstrona](https://github.com/Annoonn/App_Booking/assets/92316175/daf0ecda-a3b9-4215-bf44-d72d8ff76ccf)
